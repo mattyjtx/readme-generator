@@ -1,6 +1,6 @@
 # readme generator
 
-  
+  ![readme generator walkthrough](./Develop/images/readmewalkthrough.gif)
 
 ## Description
 
@@ -43,4 +43,3 @@ undefined
 mattgonzales3@yahoo.com
 
 
-![readme generator walkthrough](images/Untitled_%20May%2014%2C%202022%2011_19%20PM.gif)
