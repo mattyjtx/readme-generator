@@ -26,15 +26,11 @@ const questions = [{
     type: "list",
     message: "What license is being used? (ie...MIT)",
     name: "License",
-    choices:["MIT", "GP2.0", ]
+    choices:["MIT", "GP2.0", "Apache license 2.0", "ISC", "Microsoft Public License", "PostgreSQL License" ]
 }, {
     type: "input",
     message: "Who contributed to this project?:",
     name: "Contributing"
-}, {
-    type: "input",
-    message: "What commands are needed to test this app?",
-    name: "Tests"
 }, {
     type: 'input',
     message: 'What is your Github username?',
